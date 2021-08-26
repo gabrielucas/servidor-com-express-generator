@@ -1,2 +1,3 @@
 # servidor-com-express-generator
-criando um servidor com express-generator
+
+Projeto para aprender a trabalhar com Express Generator e EJS.
